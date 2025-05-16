@@ -1,0 +1,1 @@
+// App.js avec logique de calculs, PDF et interface utilisateur à insérer ici.
